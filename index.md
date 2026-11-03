@@ -12,6 +12,7 @@ Puoi esercitare i tuoi diritti nei confronti di ciascuno di noi.
 Contatto unico: **mvpnight.app@gmail.com**
 
 ## 2. Quali dati raccogliamo
+
 | Dato | Perché | Obbligatorio |
 |---|---|---|
 | Nickname | farti riconoscere dagli amici | sì |
