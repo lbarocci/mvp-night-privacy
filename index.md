@@ -1,6 +1,6 @@
 # Informativa privacy e regole di MVP Night
 
-*Ultimo aggiornamento: 3 novembre 2026*
+*Ultimo aggiornamento: 15 novembre 2026*
 
 MVP Night è un'app per giocare con il proprio gruppo di amici durante una serata: si vota l'MVP,
 si assegnano punti e si accettano sfide. Questa pagina spiega quali dati usiamo e come.
@@ -71,10 +71,23 @@ scrivendo all'email qui sopra. Ti rispondiamo entro un mese.
 Puoi **eliminare l'account in qualsiasi momento** dall'app: *Il mio account → Elimina account*.
 Puoi anche fare reclamo al **Garante per la protezione dei dati personali** (www.garanteprivacy.it).
 
-## 8. Età minima
+## 8. Come eliminare il tuo account
+**Dall'app** (immediato): *Il mio account → Elimina account*, poi scrivi ELIMINA per confermare.
+
+**Senza l'app** (per esempio se l'hai già disinstallata): scrivi a **mvpnight.app@gmail.com** con oggetto
+"Elimina account MVP Night", indicando il tuo **nickname** e, se l'hai collegata, l'**email** dell'account
+(meglio se scrivi proprio da quella email). Eliminiamo l'account entro **30 giorni** e ti rispondiamo per conferma.
+
+**Cosa viene cancellato:** profilo e nickname, email collegata, foto, voti, punti, sfide, duelli, codice per le
+notifiche, persone bloccate e tentativi di accesso ai gruppi.
+**Cosa resta:** i gruppi che avevi creato passano al membro più vecchio (se eri da solo vengono cancellati) e le
+segnalazioni che hai inviato restano, **senza il tuo nome**, per la moderazione.
+Gli account non usati da più di 12 mesi vengono comunque eliminati in automatico.
+
+## 9. Età minima
 L'app è riservata ai **maggiorenni (18+)**.
 
-## 9. Regole della community
+## 10. Regole della community
 - Tolleranza zero per insulti, molestie, bullismo, razzismo e contenuti sessuali espliciti o violenti
   (nickname, sfide, foto, testi).
 - Le sfide sono un gioco: nessuno è obbligato. Rispetta chi non conosci, non insistere e non fare niente di
@@ -83,5 +96,5 @@ L'app è riservata ai **maggiorenni (18+)**.
 - Puoi **segnalare** (🚩) persone, foto e sfide e **bloccare** chi ti dà fastidio. Controlliamo le segnalazioni
   **entro 24 ore**: possiamo rimuovere contenuti e sospendere gli account che violano le regole.
 
-## 10. Modifiche
+## 11. Modifiche
 Se cambiamo questa informativa aggiorniamo la data in alto e lo segnaliamo nell'app.
