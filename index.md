@@ -17,7 +17,7 @@ Contatto unico: **mvpnight.app@gmail.com**
 |---|---|---|
 | Nickname | farti riconoscere dagli amici | sì |
 | Email | ritrovare l'account su un altro telefono | no |
-| Gruppi, voti, punti, sfide, duelli | far funzionare il gioco | sì |
+| Gruppi, voti, punti, sfide, duelli, trofei | far funzionare il gioco | sì |
 | Foto-prova | dimostrare una sfida o un bonus | no |
 | Codice per le notifiche push | avvisarti di sfide e duelli | no |
 | Data della conferma 18+ e delle regole | rispettare l'età minima | sì |
@@ -84,7 +84,7 @@ Puoi anche fare reclamo al **Garante per la protezione dei dati personali** (www
 "Elimina account MVP Night", indicando il tuo **nickname** e, se l'hai collegata, l'**email** dell'account
 (meglio se scrivi proprio da quella email). Eliminiamo l'account entro **30 giorni** e ti rispondiamo per conferma.
 
-**Cosa viene cancellato:** profilo e nickname, email collegata, foto, voti, punti, sfide, duelli, codice per le
+**Cosa viene cancellato:** profilo e nickname, email collegata, foto, voti, punti, sfide, duelli, trofei, codice per le
 notifiche, persone bloccate e tentativi di accesso ai gruppi.
 **Cosa resta:** i gruppi che avevi creato passano al membro più vecchio (se eri da solo vengono cancellati) e le
 segnalazioni che hai inviato restano, **senza il tuo nome**, per la moderazione.
