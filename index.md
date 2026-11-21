@@ -26,6 +26,7 @@ Contatto unico: **mvpnight.app@gmail.com**
 | Segnalazioni fatte o ricevute, sospensioni | moderare i contenuti | sì, se succede |
 | Data dell'ultimo utilizzo | cancellare gli account abbandonati | sì |
 | Indirizzo IP e dati tecnici delle richieste (registri del server) | sicurezza e funzionamento | sì |
+| Indirizzo IP e dati tecnici del telefono per la verifica anti-robot (quando crei un account o chiedi un codice email) | bloccare la creazione automatica di account falsi | sì |
 
 **Non** raccogliamo posizione, contatti, dati di pagamento o dati per la pubblicità.
 Dalle foto vengono tolti i dati nascosti (EXIF), compresa la posizione GPS.
@@ -33,7 +34,7 @@ Dalle foto vengono tolti i dati nascosti (EXIF), compresa la posizione GPS.
 ## 3. Come li usiamo e base giuridica
 - **Far funzionare il gioco** (gruppi, voti, punti, sfide, foto, notifiche, email di accesso):
   esecuzione del servizio che hai richiesto (art. 6.1.b GDPR).
-- **Sicurezza e moderazione** (limite ai tentativi sui codici, blocchi, segnalazioni, sospensioni,
+- **Sicurezza e moderazione** (limite ai tentativi sui codici, verifica anti-robot, blocchi, segnalazioni, sospensioni,
   conferma della maggiore età, registri del server): nostro legittimo interesse a proteggere
   l'app e i suoi utenti (art. 6.1.f GDPR). Puoi opporti scrivendoci; valuteremo la richiesta,
   ma alcuni di questi dati servono per forza a tenere l'app sicura.
@@ -48,11 +49,14 @@ Niente pubblicità, niente profilazione, nessuna vendita o cessione dei dati.
     I dati sono salvati su server nell'**Unione Europea (Parigi, Francia, regione eu-west-3)**;
   - **Resend (Plus Five Five, Inc., Stati Uniti)**: invio delle email con il codice di accesso
     (indirizzo email e testo dell'email), da server nell'**Unione Europea (Irlanda)**;
+  - **Cloudflare, Inc. (Stati Uniti)**: verifica anti-robot (Turnstile) quando crei un account
+    o chiedi un codice email. Non usa cookie pubblicitari;
   - **Expo (650 Industries, Inc., Stati Uniti)**: invio delle notifiche push.
 
 ## 5. Trasferimenti fuori dall'Unione Europea
 Il codice per le notifiche push e il testo delle notifiche passano dai server di Expo negli **Stati Uniti**.
-Inoltre Supabase, Resend ed Expo sono società statunitensi e il loro personale tecnico potrebbe accedere
+I dati della verifica anti-robot sono trattati da Cloudflare, anche fuori dall'Unione Europea.
+Inoltre Supabase, Resend, Cloudflare ed Expo sono società statunitensi e il loro personale tecnico potrebbe accedere
 ai dati dall'estero (per esempio per assistenza). In questi casi il trasferimento è protetto dalle
 **clausole contrattuali standard** approvate dalla Commissione europea (art. 46 GDPR), previste nei
 contratti di questi fornitori. Puoi chiederci una copia di queste garanzie.
