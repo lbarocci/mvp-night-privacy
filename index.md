@@ -1,6 +1,6 @@
 # Informativa privacy e regole di MVP Night
 
-*Ultimo aggiornamento: 15 novembre 2026*
+*Ultimo aggiornamento: 21 novembre 2026*
 
 MVP Night è un'app per giocare con il proprio gruppo di amici durante una serata: si vota l'MVP,
 si assegnano punti e si accettano sfide. Questa pagina spiega quali dati usiamo e come.
@@ -44,13 +44,15 @@ Niente pubblicità, niente profilazione, nessuna vendita o cessione dei dati.
 - I **membri dei tuoi gruppi** (nickname, voti, punti, foto delle serate del gruppo).
 - Gli **amministratori** dell'app, solo per i contenuti segnalati.
 - I fornitori tecnici che ci aiutano a far funzionare l'app (responsabili del trattamento):
-  - **Supabase Inc.**: database, accesso, spazio foto e invio delle email con il codice di accesso.
+  - **Supabase Inc.**: database, accesso e spazio foto.
     I dati sono salvati su server nell'**Unione Europea (Parigi, Francia, regione eu-west-3)**;
+  - **Resend (Plus Five Five, Inc., Stati Uniti)**: invio delle email con il codice di accesso
+    (indirizzo email e testo dell'email), da server nell'**Unione Europea (Irlanda)**;
   - **Expo (650 Industries, Inc., Stati Uniti)**: invio delle notifiche push.
 
 ## 5. Trasferimenti fuori dall'Unione Europea
 Il codice per le notifiche push e il testo delle notifiche passano dai server di Expo negli **Stati Uniti**.
-Inoltre Supabase ed Expo sono società statunitensi e il loro personale tecnico potrebbe accedere
+Inoltre Supabase, Resend ed Expo sono società statunitensi e il loro personale tecnico potrebbe accedere
 ai dati dall'estero (per esempio per assistenza). In questi casi il trasferimento è protetto dalle
 **clausole contrattuali standard** approvate dalla Commissione europea (art. 46 GDPR), previste nei
 contratti di questi fornitori. Puoi chiederci una copia di queste garanzie.
