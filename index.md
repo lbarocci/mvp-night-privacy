@@ -98,6 +98,8 @@ L'app è riservata ai **maggiorenni (18+)**.
   (nickname, sfide, foto, testi).
 - Le sfide sono un gioco: nessuno è obbligato. Rispetta chi non conosci, non insistere e non fare niente di
   pericoloso o illegale.
+- Le sfide con persone fuori dal gruppo si fanno solo se l'altra persona è d'accordo. Niente foto di chi non ha
+  detto sì.
 - L'app non incoraggia a bere alcolici. Se bevi, fallo responsabilmente e non metterti mai alla guida.
 - Puoi **segnalare** (🚩) persone, foto e sfide e **bloccare** chi ti dà fastidio. Controlliamo le segnalazioni
   **entro 24 ore**: possiamo rimuovere contenuti e sospendere gli account che violano le regole.
